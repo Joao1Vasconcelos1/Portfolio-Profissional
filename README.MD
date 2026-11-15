@@ -31,5 +31,5 @@ a foto de perfil aumenta levemente e a rolagem do menu é suave.
 
 # Explicação de como esse recurso foi implementado
 
-Esse novo recurso foi iplementado com CSS, em um bloco **<style>** no **<head>**,
+Esse novo recurso foi iplementado com CSS, em um bloco **<style>** no **head**,
 e a classe card-hover foi adicionada aos cards.
