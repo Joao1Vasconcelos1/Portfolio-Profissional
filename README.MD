@@ -3,7 +3,8 @@
 
 # Descrição do portfólio
 
-Página de portfólio pessoal que apresenta meu perfil profissional, as tecnologias que estudo e os projetos desenvolvidos durante o curso Técnico em Desenvolvimento de Sistemas. A página é responsiva, se adaptando ao computador, tablet e celular.
+Página de portfólio pessoal que apresenta meu perfil profissional, as tecnologias que estudo e os projetos desenvolvidos durante
+o curso Técnico em Desenvolvimento de Sistemas. A página é responsiva, se adaptando ao computador, tablet e celular.
 
 # Tecnologias utilizadas
 
@@ -11,7 +12,7 @@ Página de portfólio pessoal que apresenta meu perfil profissional, as tecnolog
 
 # Link do site publicado
 
-**
+*https://joao1vasconcelos1.github.io/Portfolio-Profissional/*
 
 # Explicação do funcionamento do projeto
 
@@ -23,9 +24,10 @@ A página tem um único arquivo, **index.html**, e as imagens ficam na pasta **i
 - Projetos: três cards com imagem, descrição e botão.
 - Contato: card com botões de e-mail, GitHub e LinkedIn.
 
-# Descrição do recurso novo adicionado: animações (hover e transições)
+# Descrição do recurso novo adicionado: Animações (hover e transições)
 
-Os cards sobem e ganham sombra ao passar o mouse, a foto de perfil aumenta levemente e a rolagem do menu é suave.
+Os cards sobem e ganham sombra ao passar o mouse, 
+a foto de perfil aumenta levemente e a rolagem do menu é suave.
 
 # Explicação de como esse recurso foi implementado
 
